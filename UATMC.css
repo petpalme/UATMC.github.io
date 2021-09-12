@@ -1,0 +1,11 @@
+body {
+    background-color: white;
+    background-image: linear-gradient(0deg, white 0%, #1de268e5 100%);
+} ;
+    font-size: 3.1em; ;}
+    h1 { color: rgb(0, 0, 0);}
+#intro {  font-size: 1.em ;
+color: rgb(46, 59, 236);}
+.colorful { color: rgb(225, 65, 198);}
+p {text-align: left;
+color: rgb(26, 22, 19);}
